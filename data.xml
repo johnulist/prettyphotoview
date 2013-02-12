@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+	<item>
+		<title_1>GWT Logo</title_1>
+
+		<text_1>www.gandzo.com</text_1>
+
+		<category>Gandzo category</category>
+
+		<url>www.gandzo.com</url>
+
+		<img>slides/slide0.jpg</img>
+
+		<thumb>slides/thumbnails/thumb0.jpg</thumb>
+
+	</item>
+
+</items>
